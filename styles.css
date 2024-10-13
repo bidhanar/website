@@ -1,0 +1,24 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #F0F0F0; /* Light Gray */
+    color: #333333; /* Charcoal Black */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366; /* Navy Blue */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
